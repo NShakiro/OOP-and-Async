@@ -1,0 +1,9 @@
+{
+  "name": "oop_acync",
+  "version": "1.0.0",
+  "description": "OOP concepts and asynchronous in JS",
+  "main": "index.js",
+  "type": "module",
+  "author": "NShakiro",
+  "license": "ISC"
+}
